@@ -1,0 +1,7 @@
+D:\csrp\BookStoreDatabase\ReadFromExcelFile\bin\Debug\ReadFromExcelFile.exe.config
+D:\csrp\BookStoreDatabase\ReadFromExcelFile\obj\Debug\ReadFromExcelFile.csproj.ResolveComReference.cache
+D:\csrp\BookStoreDatabase\ReadFromExcelFile\bin\Debug\ReadFromExcelFile.exe
+D:\csrp\BookStoreDatabase\ReadFromExcelFile\bin\Debug\ReadFromExcelFile.pdb
+D:\csrp\BookStoreDatabase\ReadFromExcelFile\obj\Debug\ReadFromExcelFile.exe
+D:\csrp\BookStoreDatabase\ReadFromExcelFile\obj\Debug\ReadFromExcelFile.pdb
+D:\csrp\BookStoreDatabase\ReadFromExcelFile\obj\Debug\ReadFromExcelFile.csprojResolveAssemblyReference.cache
