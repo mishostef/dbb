@@ -1,0 +1,2 @@
+D:\csrp\BookStoreDatabase\dbtster\bin\Debug\dbtster.exe.config
+D:\csrp\BookStoreDatabase\dbtster\obj\Debug\dbtster.csproj.ResolveComReference.cache
