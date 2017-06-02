@@ -19,7 +19,15 @@ namespace dbtster
 
         public DbSet<Publisher> Publishers { get; set; }
 
-       
+       public void AddGenre(Genre g)
+       {
+           Genres.Add(g);
+       }
+
+       public void AddBook(Book b)
+       {
+           BBooks.Add(b);
+       }
 
     }
 }
