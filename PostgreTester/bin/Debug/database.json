@@ -1,5 +1,5 @@
 {
-  "dev": "postgres://postgres:vinetu41@localhost/petstore",
+  "dev": "postgres://petshop:vinetu41@localhost/petshop",
 
   "test": {
     "driver": "sqlite3",
@@ -8,8 +8,8 @@
 
   "prod": {
     "driver": "pg",
-    "user": "joe",
-    "password": "toottoot",
-    "database": "petstore"
+    "user": "misho",
+    "password": "vinetu41",
+    "database": "petshop"
   }
 }
