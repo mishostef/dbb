@@ -5,3 +5,9 @@ D:\csrp\BookStoreDatabase\ReadFromExcelFile\bin\Debug\ReadFromExcelFile.pdb
 D:\csrp\BookStoreDatabase\ReadFromExcelFile\obj\Debug\ReadFromExcelFile.exe
 D:\csrp\BookStoreDatabase\ReadFromExcelFile\obj\Debug\ReadFromExcelFile.pdb
 D:\csrp\BookStoreDatabase\ReadFromExcelFile\obj\Debug\ReadFromExcelFile.csprojResolveAssemblyReference.cache
+C:\Users\Misho\Desktop\repo\trunk\ReadFromExcelFile\bin\Debug\ReadFromExcelFile.exe.config
+C:\Users\Misho\Desktop\repo\trunk\ReadFromExcelFile\bin\Debug\ReadFromExcelFile.exe
+C:\Users\Misho\Desktop\repo\trunk\ReadFromExcelFile\bin\Debug\ReadFromExcelFile.pdb
+C:\Users\Misho\Desktop\repo\trunk\ReadFromExcelFile\obj\Debug\ReadFromExcelFile.csproj.ResolveComReference.cache
+C:\Users\Misho\Desktop\repo\trunk\ReadFromExcelFile\obj\Debug\ReadFromExcelFile.exe
+C:\Users\Misho\Desktop\repo\trunk\ReadFromExcelFile\obj\Debug\ReadFromExcelFile.pdb
