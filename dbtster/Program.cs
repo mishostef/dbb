@@ -27,6 +27,8 @@ namespace dbtster
                 db.AddBook(book);
                 db.SaveChanges();
             }
+
+            Console.WriteLine("Commit");
         }
     }
 }

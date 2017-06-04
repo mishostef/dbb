@@ -13,3 +13,7 @@ C:\Users\Misho\Desktop\repo\trunk\dbtster\bin\Debug\EntityFramework.SqlServer.xm
 C:\Users\Misho\Desktop\repo\trunk\dbtster\obj\Debug\dbtster.csprojResolveAssemblyReference.cache
 C:\Users\Misho\Desktop\repo\trunk\dbtster\obj\Debug\dbtster.exe
 C:\Users\Misho\Desktop\repo\trunk\dbtster\obj\Debug\dbtster.pdb
+D:\Visual Studio 2015\Projects\dbb\dbtster\bin\Debug\dbtster.exe.config
+D:\Visual Studio 2015\Projects\dbb\dbtster\obj\Debug\dbtster.csproj.ResolveComReference.cache
+D:\Visual Studio 2015\Projects\dbb\dbtster\obj\Debug\dbtster.exe
+D:\Visual Studio 2015\Projects\dbb\dbtster\obj\Debug\dbtster.pdb
