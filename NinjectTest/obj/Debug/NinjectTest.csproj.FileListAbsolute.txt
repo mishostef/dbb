@@ -1,1 +1,8 @@
 C:\Users\Misho\Desktop\repo\trunk\NinjectTest\bin\Debug\NinjectTest.exe.config
+C:\Users\Misho\Desktop\repo\trunk\NinjectTest\bin\Debug\NinjectTest.exe
+C:\Users\Misho\Desktop\repo\trunk\NinjectTest\bin\Debug\NinjectTest.pdb
+C:\Users\Misho\Desktop\repo\trunk\NinjectTest\bin\Debug\Ninject.dll
+C:\Users\Misho\Desktop\repo\trunk\NinjectTest\bin\Debug\Ninject.xml
+C:\Users\Misho\Desktop\repo\trunk\NinjectTest\obj\Debug\NinjectTest.csprojResolveAssemblyReference.cache
+C:\Users\Misho\Desktop\repo\trunk\NinjectTest\obj\Debug\NinjectTest.exe
+C:\Users\Misho\Desktop\repo\trunk\NinjectTest\obj\Debug\NinjectTest.pdb
