@@ -1,0 +1,16 @@
+{
+  "dev": "postgres://misho:vinetu41@localhost/petshop",
+
+  "test": {
+    "driver": "sqlite3",
+    "filename": ":memory:"
+  },
+
+  "prod": {
+    "driver": "pg",
+    "user": "misho",
+    "password": "vinetu41",
+    "database": "petshop"
+  }
+  
+}

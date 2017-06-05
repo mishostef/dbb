@@ -15,7 +15,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImportFromXMLFile", "Import
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PathFinder", "PathFinder\PathFinder.csproj", "{A8BC971B-1A26-485B-8D80-890A5626842C}"
 EndProject
+<<<<<<< HEAD
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PostgerSqlTestDb", "PostgerSqlTestDb\PostgerSqlTestDb.csproj", "{235744D5-5D48-46C1-9867-E53AD0C879FC}"
+=======
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PostgreTester", "PostgreTester\PostgreTester.csproj", "{40DBE10D-28DF-4A4D-B1C7-50EF99F880DF}"
+>>>>>>> e2935a4850b631e598e30ccb2a6b0bc3e0800ca6
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -47,10 +51,17 @@ Global
 		{A8BC971B-1A26-485B-8D80-890A5626842C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A8BC971B-1A26-485B-8D80-890A5626842C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A8BC971B-1A26-485B-8D80-890A5626842C}.Release|Any CPU.Build.0 = Release|Any CPU
+<<<<<<< HEAD
 		{235744D5-5D48-46C1-9867-E53AD0C879FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{235744D5-5D48-46C1-9867-E53AD0C879FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{235744D5-5D48-46C1-9867-E53AD0C879FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{235744D5-5D48-46C1-9867-E53AD0C879FC}.Release|Any CPU.Build.0 = Release|Any CPU
+=======
+		{40DBE10D-28DF-4A4D-B1C7-50EF99F880DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40DBE10D-28DF-4A4D-B1C7-50EF99F880DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40DBE10D-28DF-4A4D-B1C7-50EF99F880DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40DBE10D-28DF-4A4D-B1C7-50EF99F880DF}.Release|Any CPU.Build.0 = Release|Any CPU
+>>>>>>> e2935a4850b631e598e30ccb2a6b0bc3e0800ca6
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
