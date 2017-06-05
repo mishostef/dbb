@@ -14,13 +14,17 @@ exports.setup = function(options, seedLink) {
   seed = seedLink;
 };
 
-exports.up = function(db) {
-  return null;
+exports.up = function (db, callback) {
+    db.createTable('pets', {
+        id: { type: 'serial', primaryKey: true },
+        name: 'string'
+    }, callback);
 };
 
-exports.down = function(db) {
-  return null;
+exports.down = function (db, callback) {
+    db.dropTable('pets', callback);
 };
+
 
 exports._meta = {
   "version": 1

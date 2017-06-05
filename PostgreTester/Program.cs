@@ -20,7 +20,7 @@ namespace PostgreTester
     }
     public class DB : DbContext
     {
-        public DB() : base("petshop") { }
+        public DB() : base("alabash1") { }
         public DbSet<Pet> Pets { get; set; }
     }
 

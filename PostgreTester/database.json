@@ -8,9 +8,8 @@
 
   "prod": {
     "driver": "pg",
-    "user": "misho",
-    "password": "vinetu41",
-    "database": "petshop"
+    "user": "joe",
+    "password": "toottoot",
+    "database": "petstore"
   }
-  
 }
