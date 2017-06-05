@@ -18,23 +18,22 @@ namespace ImportFromXMLFile
             doc.Load("..\\..\\books.xml");
             var root = doc.DocumentElement;
             PrintChildren(root);
-           var books=  ExtractBooksFromXml();
+            var books =  ExtractBooksFromXml();
             foreach (Book book in books)
             {
                 Console.WriteLine("title = {0},author = {1}",book.Title, book.Authorname  );
             }
-
         }
 
         private static List<Book> ExtractBooksFromXml()
         {
-            
             XDocument xmlDoc = XDocument.Load("../../books.xml" );
             var books =
                 from book in xmlDoc.Descendants("book")
-                select new Book(book.Element("author").Value, book.Element("title").Value);
-            return books.ToList();
-          
+                select new Book(book.Element("author").Value, 
+                book.Element("title").Value);
+
+            return books.ToList(); 
         }
 
         private static List<Book> GenerateListofBooksFromXmlFile()
@@ -48,6 +47,7 @@ namespace ImportFromXMLFile
                 string author = book.Element("author").Value;
                 booklist.Add(new Book(author,title));
             }
+
             return booklist;
         }
 

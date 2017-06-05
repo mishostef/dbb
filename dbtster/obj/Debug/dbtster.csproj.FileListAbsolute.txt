@@ -17,3 +17,12 @@ D:\Visual Studio 2015\Projects\dbb\dbtster\bin\Debug\dbtster.exe.config
 D:\Visual Studio 2015\Projects\dbb\dbtster\obj\Debug\dbtster.csproj.ResolveComReference.cache
 D:\Visual Studio 2015\Projects\dbb\dbtster\obj\Debug\dbtster.exe
 D:\Visual Studio 2015\Projects\dbb\dbtster\obj\Debug\dbtster.pdb
+D:\Visual Studio 2015\Projects\dbb\dbtster\bin\Debug\dbtster.exe
+D:\Visual Studio 2015\Projects\dbb\dbtster\bin\Debug\dbtster.pdb
+D:\Visual Studio 2015\Projects\dbb\dbtster\bin\Debug\BookStoreDatabase.dll
+D:\Visual Studio 2015\Projects\dbb\dbtster\bin\Debug\EntityFramework.dll
+D:\Visual Studio 2015\Projects\dbb\dbtster\bin\Debug\EntityFramework.SqlServer.dll
+D:\Visual Studio 2015\Projects\dbb\dbtster\bin\Debug\BookStoreDatabase.pdb
+D:\Visual Studio 2015\Projects\dbb\dbtster\bin\Debug\EntityFramework.xml
+D:\Visual Studio 2015\Projects\dbb\dbtster\bin\Debug\EntityFramework.SqlServer.xml
+D:\Visual Studio 2015\Projects\dbb\dbtster\obj\Debug\dbtster.csprojResolveAssemblyReference.cache

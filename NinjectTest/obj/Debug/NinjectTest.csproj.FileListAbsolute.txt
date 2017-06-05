@@ -1,1 +1,9 @@
 C:\Users\Misho\Desktop\repo\trunk\NinjectTest\bin\Debug\NinjectTest.exe.config
+D:\Visual Studio 2015\Projects\dbb\NinjectTest\bin\Debug\NinjectTest.exe.config
+D:\Visual Studio 2015\Projects\dbb\NinjectTest\bin\Debug\NinjectTest.exe
+D:\Visual Studio 2015\Projects\dbb\NinjectTest\bin\Debug\NinjectTest.pdb
+D:\Visual Studio 2015\Projects\dbb\NinjectTest\bin\Debug\Ninject.dll
+D:\Visual Studio 2015\Projects\dbb\NinjectTest\bin\Debug\Ninject.xml
+D:\Visual Studio 2015\Projects\dbb\NinjectTest\obj\Debug\NinjectTest.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2015\Projects\dbb\NinjectTest\obj\Debug\NinjectTest.exe
+D:\Visual Studio 2015\Projects\dbb\NinjectTest\obj\Debug\NinjectTest.pdb
