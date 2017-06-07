@@ -86,6 +86,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="20170605102232-alabash.js" />
+    <Content Include="today.txt" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
