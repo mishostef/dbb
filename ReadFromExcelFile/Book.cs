@@ -12,10 +12,10 @@ namespace BookStoreDatabase
         string authorName;
         string title;
 
-        public Book(string authorname, string title)
+        public Book(string authorname, string t)
         {
             authorName = authorname;
-            title = title;
+            title = t;
         }
 
         public string Authorname 
